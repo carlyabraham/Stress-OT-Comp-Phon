@@ -8,8 +8,8 @@ Takes user-given constraints to generate a list of stress inputs, then evaluates
 To run: 
 * Save file locally, and locate in your directory (using the command line)
 * Run 
-'''
+```
 python stressot-makeinput.py
-'''
+```
 * Answer the given prompts in the command line - min and max word size, and number of stresses.
 * The resulting input.txt (file to be used with OTSoft) will be located in that same directory.
