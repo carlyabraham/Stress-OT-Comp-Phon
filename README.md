@@ -45,3 +45,7 @@ Some features that would be great to add:
 The community guidelines are simple: be nice! (For more details on how to be a constructive, respectful member of an open source community, [TeachingOpenSource](http://teachingopensource.org/community/community-guidelines/) has a great outline. 
 
 If there are any issues, feel free to contact me (Carly Abraham) through my profile contact info.
+
+## License 
+
+This repository functions under the MIT License (2019).
